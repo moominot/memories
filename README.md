@@ -1,4 +1,4 @@
-
+-
 # 🚀 Com publicar a GitHub Pages
 
 1. **Pujar el codi a GitHub**: Crea un repositori nou i puja tots els fitxers.
